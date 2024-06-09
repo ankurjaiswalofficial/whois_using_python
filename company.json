@@ -1,0 +1,88 @@
+{
+    "createdDate": "1997-09-15T07:00:00+0000",
+    "updatedDate": "2019-09-09T15:39:04+0000",
+    "expiresDate": "2028-09-13T07:00:00+0000",
+    "registrant": {
+       "organization": "Google LLC",
+       "state": "CA",
+       "country": "UNITED STATES",
+       "countryCode": "US",
+       "rawText": "(omitted in the demo)"
+    },
+    "administrativeContact": {
+       "organization": "Google LLC",
+       "state": "CA",
+       "country": "UNITED STATES",
+       "countryCode": "US",
+       "rawText": "(omitted in the demo)"
+    },
+    "technicalContact": {
+       "organization": "Google LLC",
+       "state": "CA",
+       "country": "UNITED STATES",
+       "countryCode": "US",
+       "rawText": "(omitted in the demo)"
+    },
+    "domainName": "google.com",
+    "nameServers": {
+       "rawText": "(omitted in the demo)",
+       "hostNames": [
+          "ns1.google.com",
+          "ns3.google.com",
+          "ns4.google.com",
+          "ns2.google.com"
+       ],
+       "ips": []
+    },
+    "status": "(omitted in the demo)",
+    "rawText": "(omitted in the demo)",
+    "parseCode": 3515,
+    "header": "(omitted in the demo)",
+    "strippedText": "(omitted in the demo)",
+    "footer": "(omitted in the demo)",
+    "audit": {
+       "createdDate": "2024-06-08 11:02:45 UTC",
+       "updatedDate": "2024-06-08 11:02:45 UTC"
+    },
+    "registrarName": "MarkMonitor, Inc.",
+    "registrarIANAID": "292",
+    "createdDateNormalized": "1997-09-15 07:00:00 UTC",
+    "updatedDateNormalized": "2019-09-09 15:39:04 UTC",
+    "expiresDateNormalized": "2028-09-13 07:00:00 UTC",
+    "registryData": {
+       "createdDate": "1997-09-15T04:00:00Z",
+       "updatedDate": "2019-09-09T15:39:04Z",
+       "expiresDate": "2028-09-14T04:00:00Z",
+       "domainName": "google.com",
+       "nameServers": {
+          "rawText": "(omitted in the demo)",
+          "hostNames": [
+             "NS1.GOOGLE.COM",
+             "NS2.GOOGLE.COM",
+             "NS3.GOOGLE.COM",
+             "NS4.GOOGLE.COM"
+          ],
+          "ips": []
+       },
+       "status": "(omitted in the demo)",
+       "rawText": "(omitted in the demo)",
+       "parseCode": 251,
+       "header": "(omitted in the demo)",
+       "strippedText": "(omitted in the demo)",
+       "footer": "(omitted in the demo)",
+       "audit": {
+          "createdDate": "2024-06-08 11:02:44 UTC",
+          "updatedDate": "2024-06-08 11:02:44 UTC"
+       },
+       "registrarName": "MarkMonitor Inc.",
+       "registrarIANAID": "292",
+       "createdDateNormalized": "1997-09-15 04:00:00 UTC",
+       "updatedDateNormalized": "2019-09-09 15:39:04 UTC",
+       "expiresDateNormalized": "2028-09-14 04:00:00 UTC",
+       "whoisServer": "whois.markmonitor.com"
+    },
+    "domainAvailability": "UNAVAILABLE",
+    "contactEmail": "abusecomplaints@markmonitor.com",
+    "domainNameExt": ".com",
+    "estimatedDomainAge": 9763
+ }
